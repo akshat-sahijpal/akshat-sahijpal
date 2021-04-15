@@ -2,20 +2,18 @@
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Kotlin along with Flutter 
 - 💞️ I’m looking to collaborate on any projects related to Phone Application Development
-- 📫 How to reach me 
-         -  Phone No: +91 9501199411  
 <!---
 akshat-sahijpal/akshat-sahijpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+- 📫
 ### Connect with me:
  
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
- 
+    
 <br />
 <br />
 
