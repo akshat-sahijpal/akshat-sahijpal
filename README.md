@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshat-sahijpal
+- 👋 Hi, I’m @akshat-sahijpal [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akshat-sahijpal&count_private=true&theme=red&showicons=true)]() 
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Kotlin along with Flutter 
 - 💞️ I’m looking to collaborate on any projects related to Phone Application Development
