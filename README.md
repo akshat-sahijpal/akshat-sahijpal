@@ -66,5 +66,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat%20sahijpal-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5%22)](https://www.linkedin.com/in/akshat-sahijpal-651b441a6/)
 
+[![Mail](https://img.shields.io/badge/Email-ofakshat2001@gmail.com-informationl?&labelColor=black&logo=gmail&logoColor=0077b5&&color=#0077b5%22)]
+
 [![Instagram](https://img.shields.io/badge/Instagram-akshat%20sahijpal-informationl?style=for-the-badge&labelColor=black&logo=instagram&logoColor=0077b5&&color=#0077b5%22)](https://www.instagram.com/im_akshat2001/)
 
