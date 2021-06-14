@@ -19,6 +19,21 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-dark&hide_border=true"/>
 <br/>
 
+---
+
+## 🏗️ **Projects:**
+
+- [News Now](https://github.com/akshat-sahijpal/News-Now)
+- [Covid One](https://github.com/akshat-sahijpal/Covid-One)
+- [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
+- [WhatsApp Clone](https://github.com/akshat-sahijpal/Watsapp-Clone)
+- [Face Recognition](https://github.com/akshat-sahijpal/Face-Recognition)
+
+<br/>
+
+---
+
+
 ## 🛠️ **Languages & Tools:**
 
 <p align="center">
