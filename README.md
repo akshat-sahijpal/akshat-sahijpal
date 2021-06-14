@@ -64,8 +64,8 @@
 <br />
 
 ---
- 
-## 🌐 **Reach out to me:** ️ <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif">
+
+## <img src="https://media.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" width="25"> **Reach out to me:** ️ <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat%20sahijpal-informationl?labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5%22)](https://www.linkedin.com/in/akshat-sahijpal-651b441a6/)
 
