@@ -2,6 +2,7 @@
 <br/>
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <br/>
+
 ## <img src="https://media.giphy.com/media/3o6ZsXhBzpoRApBkPK/giphy.gif" width="30"> **About Me:**
 
 - 👋 Hi, I’m @akshat-sahijpal currently studying Computer Science
@@ -34,8 +35,16 @@
 </p>
 <br/>
 
-## ** Profile Visits **
+## 😄 **Profile Visits:**
+
 <br />
+
 ![](https://komarev.com/ghpvc/?username=akshat-sahijpal&style=flat-square)
-<br /> 
+
+<br />
+
+---
  
+## 🌐 **Reach out to me:** ️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayDevTech-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5")](https://www.linkedin.com/in/akshatsahijpal)
