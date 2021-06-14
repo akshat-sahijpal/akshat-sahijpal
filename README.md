@@ -36,8 +36,21 @@
 
 ## 🏗️ **C++ Projects:** <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif">
 - [Game Engine](https://github.com/akshat-sahijpal/Game-Engine)
-- <br>
-- <br>
+<br>
+<br>
+<br/>
+
+---
+
+---
+
+## 🏗️ **BlockChain** <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif">
+- [News Now](https://github.com/akshat-sahijpal/News-Now)
+- [Covid One](https://github.com/akshat-sahijpal/Covid-One)
+- [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
+- [WhatsApp Clone](https://github.com/akshat-sahijpal/Watsapp-Clone)
+- [Face Recognition](https://github.com/akshat-sahijpal/Face-Recognition)
+
 <br/>
 
 ---
