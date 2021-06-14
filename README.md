@@ -43,7 +43,7 @@
 <br/>
 
 ---
-## <img src="https://media.giphy.com/media/MX3tuwGm1Zy2wFbwCN/giphy.gif" width="25"> **Languages & Tools:**
+## <img src="https://media.giphy.com/media/hY2reRurgUNekafQ45/giphy.gif" width="25"> **Languages & Tools:**
 
 <p align="center">
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="60" />
