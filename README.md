@@ -1,8 +1,5 @@
 # <p align="center">️ **Hello!! 👋👋 I'm Akshat Sahijpal ** 🎯️🚀️ </p>
-<br/>
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-<br/>
-
 ## <img src="https://media.giphy.com/media/3o6ZsXhBzpoRApBkPK/giphy.gif" width="30"> **About Me:**
 
 - 👋 Hi, I’m @akshat-sahijpal currently studying Computer Science
@@ -47,4 +44,4 @@
  
 ## 🌐 **Reach out to me:** ️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayDevTech-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5")](https://www.linkedin.com/in/akshatsahijpal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat%20sahijpal-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5%22)](https://www.linkedin.com/in/akshat-sahijpal-651b441a6/)
