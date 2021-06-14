@@ -10,7 +10,7 @@
 - 👀 I'm also working on my DSA skills  
 <br/>
 
-## <img src="https://media.giphy.com/media/dVuILohyJO5WmSh2Xk/giphy.gif" width="25"> **My Stats:**
+## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25"> **My Stats:**
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-dark"/>
    <br/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 🏗️ **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
+## <img src="https://media.giphy.com/media/3o85xA30i7z1LUIISY/giphy.gif" width="25"> **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
 - [News Now](https://github.com/akshat-sahijpal/News-Now)
 - [Covid One](https://github.com/akshat-sahijpal/Covid-One)
 - [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
