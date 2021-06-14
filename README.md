@@ -21,8 +21,7 @@
 
 ---
 
-## 🏗️ **Android Projects:**
-<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+## 🏗️ **Android Projects:** <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 - [News Now](https://github.com/akshat-sahijpal/News-Now)
 - [Covid One](https://github.com/akshat-sahijpal/Covid-One)
 - [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
