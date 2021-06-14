@@ -1,7 +1,7 @@
-<p>- 👋 Hi, I’m @akshat-sahijpal
+- 👋 Hi, I’m @akshat-sahijpal
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Kotlin along with Flutter 
-- 💞️ I’m looking to collaborate on any projects related to Phone Application Development </p>
+- 💞️ I’m looking to collaborate on any projects related to Phone Application Development
 
 <br/>
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
