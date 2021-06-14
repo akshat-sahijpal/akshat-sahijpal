@@ -17,6 +17,8 @@
    <br/>
    <br/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-dark&hide_border=true"/>
+      <br/>
+   <br/>
 <a href="https://github.com/akshat-sahijpal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-sahijpal&show_icons=true&theme=vue-dark&line_height=27" alt="Akshat's github stats"/>
 </a> 
