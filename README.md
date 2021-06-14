@@ -73,5 +73,6 @@
 
 ![Mail](https://img.shields.io/badge/Email-ofakshat2001@gmail.com-informationl?&labelColor=black&logo=gmail&logoColor=0077b5&&color=#0077b5%22)
 
-[![Instagram](https://img.shields.io/badge/Instagram-akshat%20sahijpal-informationl?labelColor=black&logo=instagram&logoColor=0077b5&&color=#0077b5%22)](https://www.instagram.com/im_akshat2001/)
+![Call](https://img.shields.io/badge/Phone-+91%209501199411-informationl?&labelColor=black&logo=call&logoColor=0077b5&&color=#0077b5%22)
 
+[![Instagram](https://img.shields.io/badge/Instagram-akshat%20sahijpal-informationl?labelColor=black&logo=instagram&logoColor=0077b5&&color=#0077b5%22)](https://www.instagram.com/im_akshat2001/)
