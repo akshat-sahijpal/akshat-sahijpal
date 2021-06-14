@@ -10,7 +10,7 @@
 - 👀 I'm also working on my DSA skills  
 <br/>
 
-## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25"> **My Stats:**
+## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-dark"/>
    <br/>
@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="25"> **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
+## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="30"> **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
 - [News Now](https://github.com/akshat-sahijpal/News-Now)
 - [Covid One](https://github.com/akshat-sahijpal/Covid-One)
 - [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
@@ -36,14 +36,14 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="25"> **C++ Projects:** <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif">
+## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="30"> **C++ Projects:** <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif">
 - [Game Engine](https://github.com/akshat-sahijpal/Game-Engine)
 <br>
 <br>
 <br/>
 
 ---
-## <img src="https://media.giphy.com/media/hY2reRurgUNekafQ45/giphy.gif" width="25"> **Languages & Tools:**
+## <img src="https://media.giphy.com/media/hY2reRurgUNekafQ45/giphy.gif" width="30"> **Languages & Tools:**
 
 <p align="center">
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="60" />
@@ -65,7 +65,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/SxEpEO1DO7ngPVwDof/giphy.gif" width="25"> **Reach out to me:** ️ <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif">
+## <img src="https://media.giphy.com/media/SxEpEO1DO7ngPVwDof/giphy.gif" width="30"> **Reach out to me:** ️ <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat%20sahijpal-informationl?labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5%22)](https://www.linkedin.com/in/akshat-sahijpal-651b441a6/)
 
