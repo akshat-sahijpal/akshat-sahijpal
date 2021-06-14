@@ -16,22 +16,10 @@ You can click the Preview link to take a look at your changes.
    <br/>
    <br/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-dark&hide_border=true"/>
-   <br/>
-   <br/>
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akshat-sahijpal&count_private=true&theme=red&showicons=true)]() 
-     <br/>
-   <br/>
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akshat-sahijpal&count_private=true&theme=red&showicons=true)]() <br>
    [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&langs_count=6&theme=red)]()
 <br/>
 
----
-
-### Connect with me:
- 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
- 
----
 ## 🛠️ **Languages & Tools:**
 
 <p align="center">
@@ -54,10 +42,11 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=akshat-sahijpal&style=flat-square)
 
 <br />
+------
 
+### Connect with me:
+ 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 ---
-
----
-
-[linkedin]: https://www.linkedin.com/in/akshat-sahijpal-651b441a6/
 
