@@ -10,7 +10,7 @@
 - 👀 I'm also working on my DSA skills  
 <br/>
 
-## <img src=" https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25">🎓️️ **My Stats:**
+## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="25"> **My Stats:**
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-dark"/>
    <br/>
