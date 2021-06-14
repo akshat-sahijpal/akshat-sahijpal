@@ -1,7 +1,7 @@
 # <p align="center">️ **Hello!! 👋👋 I'm Akshat Sahijpal ** 🎯️🚀️ </p> 
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-## <img src="https://media.giphy.com/media/3o6ZsXhBzpoRApBkPK/giphy.gif" width="25"> **About Me:**
+## <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25"> **About Me:**
 
 - 👋 Hi, I’m @akshat-sahijpal currently studying Computer Science
 - 👀 I’m currently working on building high quality and powerfull Android Applications  
