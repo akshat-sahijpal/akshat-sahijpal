@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @akshat-sahijpal currently studying Computer Science
 - 👀 I’m currently working on building high quality and powerfull Android Applications  
-- 🌱 I like to construct my Android Applications in kotlin
+- 🌱 My Preffered Language for Android is kotlin.
 - 💞️ I use NodeJS and MongoDB for the Backend most of the time (Sometimes Firebase too :P)
 - 👀 I'm also working on my DSA skills  
 <br/>
