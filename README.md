@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/3o85xA30i7z1LUIISY/giphy.gif" width="25"> **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
+## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="25"> **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
 - [News Now](https://github.com/akshat-sahijpal/News-Now)
 - [Covid One](https://github.com/akshat-sahijpal/Covid-One)
 - [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
