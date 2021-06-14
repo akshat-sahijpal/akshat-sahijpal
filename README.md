@@ -29,5 +29,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br/>
 
+## ** Visits:**
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=akshat-sahijpal&style=flat-square)
+
+<br />
+
+---
+
 [linkedin]: https://www.linkedin.com/in/akshat-sahijpal-651b441a6/
 
