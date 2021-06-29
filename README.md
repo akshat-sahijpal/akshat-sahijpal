@@ -18,7 +18,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-dark&hide_border=true"/>
       <br/>
    <br/>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=react-white"/>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=react-light"/>
       <br/>
    <br/>
 <a href="https://github.com/akshat-sahijpal">
