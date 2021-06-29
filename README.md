@@ -15,14 +15,14 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-dark"/>
    <br/>
    <br/>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=react-dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-dark&hide_border=true"/>
       <br/>
    <br/>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=react-dark"/>
       <br/>
    <br/>
 <a href="https://github.com/akshat-sahijpal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-sahijpal&show_icons=true&theme=react-dark&line_height=27" alt="Akshat's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-sahijpal&show_icons=true&theme=vue-dark&line_height=27" alt="Akshat's github stats"/>
 </a> 
 <br/>
 
