@@ -21,6 +21,8 @@
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=react-dark"/>
       <br/>
    <br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshat-sahijpal)](https://github.com/akshat-sahijpal/github-readme-stats)
+
 <a href="https://github.com/akshat-sahijpal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-sahijpal&show_icons=true&theme=vue-dark&line_height=27" alt="Akshat's github stats"/>
 </a> 
