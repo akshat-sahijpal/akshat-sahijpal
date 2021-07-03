@@ -1,5 +1,5 @@
 # <p align="center">️ **Hello!! 👋👋 I'm Akshat Sahijpal ** 🎯️🚀️ </p> 
-<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif">
+<img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> **About Me:**
 
