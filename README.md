@@ -11,19 +11,7 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
-   <style> 
-	.boxes{ 
-	width:50%; 
-	float:left; 
-	} 
-	#mainDiv{ 
-		width:50%; 
-margin:auto; 
-	} 
-	img{ 
-		max-width:100%; 
-	} 
-</style> 
+ 
 
 <div id="mainDiv"> 
     <div id="divOne" class="boxes"> 
