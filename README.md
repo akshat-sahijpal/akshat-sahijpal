@@ -11,7 +11,28 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
-   
+   <style> 
+	.boxes{ 
+	width:50%; 
+	float:left; 
+	} 
+	#mainDiv{ 
+		width:50%; 
+margin:auto; 
+	} 
+	img{ 
+		max-width:100%; 
+	} 
+</style> 
+
+<div id="mainDiv"> 
+    <div id="divOne" class="boxes"> 
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-light&hide_border=true"> 
+    </div> 
+    <div id="divTwo" class="boxes"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light"> 
+    </div> 
+</div> 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-light&hide_border=true"/> 
    <br/>
    <br/>
