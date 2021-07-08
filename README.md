@@ -13,9 +13,11 @@
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
    
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-light&hide_border=true"/> 
-   <br>
+   <br/>
+   <br/>
+  
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light"/>   
-    <br>
+    
 <a href="https://github.com/akshat-sahijpal">
 
 ---
