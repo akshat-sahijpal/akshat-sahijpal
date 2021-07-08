@@ -32,12 +32,7 @@ margin:auto;
     <div id="divTwo" class="boxes"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light"> 
     </div> 
-</div> 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-light&hide_border=true"/> 
-   <br/>
-   <br/>
-  
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light"/>   
+</div>   
     
 <a href="https://github.com/akshat-sahijpal">
 
