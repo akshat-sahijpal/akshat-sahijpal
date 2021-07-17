@@ -14,7 +14,7 @@
 
 <div id="mainDiv"> 
     <div id="divOne" class="boxes"> 
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=vue-light&hide_border=true"> 
+	<img src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=veu-light"> 
     </div> 
     <div id="divTwo" class="boxes"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light"> 
