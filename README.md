@@ -14,10 +14,10 @@
 
 <div id="mainDiv"> 
     <div id="divOne" class="boxes"> 
-	<img src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=vue-dark" height="200"> 
+	<img src="https://activity-graph.herokuapp.com/graph?username=akshat-sahijpal&theme=vue-dark" height="400"> 
     </div> 
     <div id="divTwo" class="boxes"> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light" height="400"> 
     </div> 
 </div>   
     
