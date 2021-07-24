@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!! 👋👋 I'm Akshat Sahijpal ** 🎯️🚀️ </p>  
+# <p align="center">️ Hello!! 👋👋 I'm Akshat Sahijpal <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> </p>  
 
 ## <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> **About Me:**
 
