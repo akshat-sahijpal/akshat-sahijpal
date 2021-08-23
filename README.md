@@ -14,10 +14,10 @@
 
 <div id="mainDiv"> 
     <div id="divOne" class="boxes"> 
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=veu-light&hide_border=true" height="100"> 
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=veu-light&hide_border=true" height="250"> 
     </div> 
     <div id="divTwo" class="boxes"> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light" height="100"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=vue-light" height="230"> 
     </div> 
 </div>   
     
