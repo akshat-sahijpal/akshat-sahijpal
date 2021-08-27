@@ -22,27 +22,6 @@
 </div>   
     
 <a href="https://github.com/akshat-sahijpal">
-
----
-
-## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="30"> **Android Projects:** <img align="right" alt="Coding" height="200"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif">
-- [News Now](https://github.com/akshat-sahijpal/News-Now)
-- [Covid One](https://github.com/akshat-sahijpal/Covid-One)
-- [Social Graph](https://github.com/akshat-sahijpal/Social-Graph)
-- [WhatsApp Clone](https://github.com/akshat-sahijpal/Watsapp-Clone)
-- [Face Recognition](https://github.com/akshat-sahijpal/Face-Recognition)
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/IdD0bks4rFVA4PXCXn/giphy.gif" width="30"> **C++ Projects:** <img align="right" alt="Coding" height="200" src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png">
-- [Game Engine](https://github.com/akshat-sahijpal/Game-Engine)
-- [Windows Keylogger](https://github.com/akshat-sahijpal/Windows-KeyLogger)
-<br>
-<br>
-<br/>
-
 ---
 ## <img src="https://media.giphy.com/media/hY2reRurgUNekafQ45/giphy.gif" width="30"> **Languages & Tools:**
 
