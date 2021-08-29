@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @akshat-sahijpal currently studying Computer Science
 - 👀 I’m currently working on building high quality and powerfull Android Applications  
-- 🌱 My Preffered Language for Android is kotlin.
+- 🌱 My Preferred Language for Android is kotlin.
 - 💞️ I use Ktor and Spring Boot for the Backend most of the time (Sometimes Firebase too :P)
 - 👀 I'm currently learning backend development and jetpack compose  
 <br/>
