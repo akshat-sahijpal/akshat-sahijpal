@@ -11,7 +11,7 @@ fun <ME: About> Akshat.Profile() = Text(
       append("👋 Hi, I’m ${@akshat-sahijpal} currently studying Computer Science")
       append("👀 I’m currently working on building high quality and powerfull Android Applications")
       append("🌱 My Preferred Language for Android is kotlin.")
-      append("💞️ I use Ktor and Spring Boot for the Backend most of the time (Sometimes Firebase too :P) ")
+      append("💞️ I use Ktor and Spring Boot for the Backend most of the time Sometimes Firebase too :P")
       append("👀 I'm currently learning backend development and jetpack compose ")      
     }
  }  
