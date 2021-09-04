@@ -2,7 +2,9 @@
 
 ## <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> **About Me:**
 
-
+<h3> 
+	
+	
 ```javascript
 fun <ME: About> Akshat.Profile() = Text(
     text = buildAnnotatedString {
@@ -14,7 +16,7 @@ fun <ME: About> Akshat.Profile() = Text(
     }
  }  
 ```
-
+	</h3>
 <br/>
 
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
