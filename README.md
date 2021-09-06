@@ -21,7 +21,7 @@ fun <ME: About> Akshat.Profile() = Text(
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
  
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshat-sahijpal&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akshat-sahijpal&theme=darkhub&margin-w=20&margin-h=20&column=6&v=10" alt="Gourav's stats" />
 	 
 <div id="mainDiv" align="center"> 
     <div id="divOne" class="boxes"> 
