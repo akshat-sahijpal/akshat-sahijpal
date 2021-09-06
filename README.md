@@ -20,8 +20,10 @@ fun <ME: About> Akshat.Profile() = Text(
 
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
  
-
-<div id="mainDiv"> 
+ <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshat-sahijpal&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
+	 
+<div id="mainDiv" align="center"> 
     <div id="divOne" class="boxes"> 
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=veu-light&hide_border=true" height="250"> 
     </div> 
