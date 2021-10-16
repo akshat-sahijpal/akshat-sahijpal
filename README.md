@@ -19,16 +19,16 @@ fun <ME: About> Akshat.Profile() = Text(
 <br/>
 
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
- 
+  
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshat-sahijpal&theme=darkhub&margin-w=20&margin-h=20&column=6&v=10" alt="Gourav's stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akshat-sahijpal&theme=chartreuse-dark&margin-w=20&margin-h=20&column=6&v=10" alt="Gourav's stats" />
 	 
 <div id="mainDiv" align="center"> 
     <div id="divOne" class="boxes"> 
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=darkhub&hide_border=true" height="250"> 
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-sahijpal&theme=chartreuse-dark&hide_border=true" height="250"> 
     </div> 
     <div id="divTwo" class="boxes"> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=darkhub" height="230"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=chartreuse-dark" height="230"> 
     </div> 
 </div>   
     
