@@ -31,8 +31,9 @@ fun <ME: About> Akshat.Profile() = Text(
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sahijpal&layout=compact&theme=chartreuse-dark" height="230"> 
     </div> 
 </div>   
-     
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-sahijpal&repo=Social-Network&theme=chartreuse-dark&show_owner=true" />  
+     <a href="https://github.com/akshat-sahijpal/Social-Network">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-sahijpal&repo=Social-Network&theme=chartreuse-dark&show_owner=true" /> 
+	     </a>
 <a href="https://github.com/akshat-sahijpal">
 	
 
