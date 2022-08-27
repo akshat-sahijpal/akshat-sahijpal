@@ -12,7 +12,7 @@ fun <ME: About> Akshat.Profile() = Text(
       append("👀 I’m currently working on building high quality and powerful Android Applications")
       append("🌱 My Preferred Language for Android is kotlin.")
       append("💞️ I use Ktor for Backend development")
-      append("👀 I'm currently learning jetpack compose ")      
+      append("👀 I'm currently learning jetpack compose and iOS development")      
     }
  }  
 ```
