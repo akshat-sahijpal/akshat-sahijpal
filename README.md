@@ -1,23 +1,4 @@
 # <p align="center">️ Hello!! I'm Akshat Sahijpal </p>  
-
-## <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> **About Me:**
-
-<h3> 
-	
-	
-```javascript
-fun <ME: About> Akshat.Profile() = Text(
-    text = buildAnnotatedString {
-      append("👋 Hi, I’m ${@akshat-sahijpal} currently studying Computer Science")
-      append("👀 I’m currently working on building high quality and powerful Android Applications")
-      append("🌱 My Preferred Language for Android is kotlin.")
-      append("💞️ I use Ktor for Backend development")
-      append("👀 I'm currently learning jetpack compose and iOS development")      
-    }
- }  
-```
-<br/>
-
 ## <img src="https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width="30"> **My Stats:**
   
  <p align="center">
