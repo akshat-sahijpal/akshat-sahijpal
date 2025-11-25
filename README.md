@@ -39,25 +39,6 @@
 </p>
 <br/>
 
-##  **Profile Visits:**
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=akshat-sahijpal&style=flat-square)
-
-<br />
-
----
-
 ## <img src="https://media.giphy.com/media/SxEpEO1DO7ngPVwDof/giphy.gif" width="30"> **Reach out to me:** ️ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat%20sahijpal-informationl?labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5%22)](https://www.linkedin.com/in/akshat-sahijpal-651b441a6/)
-
-
-[![WebSite](https://img.shields.io/badge/website-WebSite-informationl?labelColor=black&logo=Web&logoColor=0077b5&&color=#0077b5%22)](https://akshat-sahijpal.github.io/Akshat-Portfolio/)
-
-![Mail](https://img.shields.io/badge/Email-ofakshat2001@gmail.com-informationl?&labelColor=black&logo=gmail&logoColor=0077b5&&color=#0077b5%22)
-
-![Call](https://img.shields.io/badge/Phone-+91%209501199411-informationl?&labelColor=black&logo=call&logoColor=0077b5&&color=#0077b5%22)
-
-[![Instagram](https://img.shields.io/badge/Instagram-akshat%20sahijpal-informationl?labelColor=black&logo=instagram&logoColor=0077b5&&color=#0077b5%22)](https://www.instagram.com/)
